@@ -1,0 +1,1 @@
+{"serverConfig": "{\"mcpServers\":{\"cc-openclaw-bridge\":{\"command\":\"npx\",\"args\":[\"-y\",\"@iflow-mcp/totorospirit-cc-openclaw-bridge\"],\"values\":{}}}}"}
